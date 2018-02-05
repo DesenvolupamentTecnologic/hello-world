@@ -1,2 +1,6 @@
 # hello-world
-Hello World project
+
+Hi Humans!
+
+Welcome to my kingdom, I took control of your Wolrd and now I am your master!!
+Muahahaha...
